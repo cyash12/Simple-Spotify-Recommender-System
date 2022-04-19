@@ -1,2 +1,2 @@
-# Simple-Spotify-Recommender-System
-A simple content based music recommender using the spotify API
+Before execution, generate Spotify Client ID and Client Secret and save them as environment variables
+
